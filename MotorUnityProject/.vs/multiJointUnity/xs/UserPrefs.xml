@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D12336DE-F904-2832-0DA5-2F426F435378}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AnimationValues.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AnimationValues.cs" Line="35" Column="24" />
+      <File FileName="Assets/Scripts/Motor.cs" Line="37" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="multiJointUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AnimationValues.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="480f666a-8c96-4eff-826f-354b82950990" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
