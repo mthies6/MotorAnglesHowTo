@@ -1,5 +1,8 @@
+
 The Unity project and scripts within it are used to gather the angles of motors form a digital twin of a real life robotic. 
 Used in the Electronic Artrium Mr. Bee's Journey 
+
+[Demo Video Link](https://youtu.be/-_2ZhfuHGZw)
 
 # Steps for Setup
 1. Create Blender model with armature. 
